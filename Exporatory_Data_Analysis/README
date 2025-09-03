@@ -1,3 +1,14 @@
 # Exploratory Data Analysis
 
 Here we will load, inspect, visualize, and clean our data for use.
+
+#NOTE 
+
+To enable the Colab notebook to work, you will first need to set up your own local API key from Kaggle:
+
+To Generate Kaggle API Token:
+1. Go to your Kaggle account settings.
+2. Scroll down to the "API" section.
+3. Click "Create New API Token." This will download a kaggle.json file containing your API credentials.
+
+Once you have this, you're ready to follow along!
